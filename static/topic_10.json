@@ -1,0 +1,5162 @@
+[
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.06581826931383196,
+        "logged_value": 2.7184880914094065
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.04173838713731166,
+        "logged_value": 2.0613748526788886
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.02844382076455353,
+        "logged_value": 1.5081152704369176
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.026440034804887182,
+        "logged_value": 1.4027240759683386
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.026114730207151046,
+        "logged_value": 1.384863799217893
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.024034136217463666,
+        "logged_value": 1.2650849542070355
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.020543888970919688,
+        "logged_value": 1.0387093105743916
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "OLB17",
+        "percentage_value": 0.019685446282449327,
+        "logged_value": 0.9771294197450195
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.019391768520604202,
+        "logged_value": 0.9554443825863738
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0185100897894384,
+        "logged_value": 0.8883118935047224
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.01477425048051625,
+        "logged_value": 0.5630849422152967
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.014006170180305925,
+        "logged_value": 0.4860625219914519
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.011723013836935624,
+        "logged_value": 0.2293435158898072
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.010915776501812618,
+        "logged_value": 0.1264147611549308
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.010802412778359114,
+        "logged_value": 0.11135358225958156
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_0",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.15573504309479771,
+        "logged_value": 3.9610217073236402
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.017732077018476244,
+        "logged_value": 0.8263615339102223
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.027591319841652476,
+        "logged_value": 1.464214470227383
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.04960659046398683,
+        "logged_value": 2.3105318020252597
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.036891560236826895,
+        "logged_value": 1.8832908055231905
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.03470755075068026,
+        "logged_value": 1.7952495603690475
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.03279654245030195,
+        "logged_value": 1.71354372786983
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Duganella",
+        "percentage_value": 0.03173183782580547,
+        "logged_value": 1.6659310808329961
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.030607982944392514,
+        "logged_value": 1.613907974887646
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.025993544480734675,
+        "logged_value": 1.378153373175905
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0203112882211637,
+        "logged_value": 1.0222817438854792
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.018784166773365796,
+        "logged_value": 0.909517122442614
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0165560052435949,
+        "logged_value": 0.7273546106092758
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.015929619189582012,
+        "logged_value": 0.6717117784847957
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.014874014604611139,
+        "logged_value": 0.5727940938235574
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_1",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.10367226374599069,
+        "logged_value": 3.373958065138864
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.017481943316540696,
+        "logged_value": 0.8058655656911226
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.027288768083417056,
+        "logged_value": 1.448307267457018
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.02431633743365834,
+        "logged_value": 1.2819259440685928
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.013495518467295324,
+        "logged_value": 0.43248040294982554
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.06313852690521965,
+        "logged_value": 2.6585206013014178
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "OLB8",
+        "percentage_value": 0.028855517243634703,
+        "logged_value": 1.528847191973907
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.020599578911833605,
+        "logged_value": 1.0426148467279819
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.02007976961101373,
+        "logged_value": 1.00574271635269
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.01469105274341156,
+        "logged_value": 0.5549377814136361
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.01263161005184821,
+        "logged_value": 0.3370385398202637
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.01248030405818233,
+        "logged_value": 0.3196530830694049
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.01242661483462347,
+        "logged_value": 0.3134333417291141
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.011969442961288934,
+        "logged_value": 0.25935601312638257
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Shinella",
+        "percentage_value": 0.010986767475544945,
+        "logged_value": 0.13576697928191173
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_2",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.04787503210484069,
+        "logged_value": 2.2592734545045174
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.029946934308258087,
+        "logged_value": 1.5824083207218738
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.01830368643757246,
+        "logged_value": 0.8721342424762061
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Dyella",
+        "percentage_value": 0.011087376682020637,
+        "logged_value": 0.14891805841795883
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.04321773295656644,
+        "logged_value": 2.1116233957027237
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.041655284210048625,
+        "logged_value": 2.0584995212827626
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.04124589259136968,
+        "logged_value": 2.0442504579498517
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.034023323025134694,
+        "logged_value": 1.7665240545156073
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.023867406172768904,
+        "logged_value": 1.2550417878266775
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.017156889120416758,
+        "logged_value": 0.7787879877204055
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.016362787422323912,
+        "logged_value": 0.7104185342099004
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.01623544498785497,
+        "logged_value": 0.699146927153948
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.015936977214481698,
+        "logged_value": 0.6723780175827883
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.013961881747729691,
+        "logged_value": 0.4814933975048297
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.01185858535818648,
+        "logged_value": 0.24593191726535615
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_3",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.024253759503701865,
+        "logged_value": 1.2782083925352374
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.05217611081076496,
+        "logged_value": 2.383389410174241
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "OLB17",
+        "percentage_value": 0.01293778675307656,
+        "logged_value": 0.3715908388559733
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.01677981463657799,
+        "logged_value": 0.7467267786879401
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.05851908898775991,
+        "logged_value": 2.5489073100937722
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.023621691434327616,
+        "logged_value": 1.2401122728023046
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.029222819227346486,
+        "logged_value": 1.5470953666805283
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.014881077999361864,
+        "logged_value": 0.5734790404245145
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.015240985611389864,
+        "logged_value": 0.6079562027450255
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Shinella",
+        "percentage_value": 0.012381661288426878,
+        "logged_value": 0.30820489870233786
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.01832066153355367,
+        "logged_value": 0.8734715980825744
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.01810030993435285,
+        "logged_value": 0.856014401006028
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.017120269964573977,
+        "logged_value": 0.775705451358295
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.015015387545541409,
+        "logged_value": 0.5864417111798021
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.014513825334027168,
+        "logged_value": 0.5374278132080539
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_4",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.05006581498581256,
+        "logged_value": 2.3238258652168815
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.012700204479026178,
+        "logged_value": 0.3448517252259606
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.02083369844390748,
+        "logged_value": 1.0589189725063246
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "OLB17",
+        "percentage_value": 0.030711814748822907,
+        "logged_value": 1.6187937631042024
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.012461588143100878,
+        "logged_value": 0.31748794156981813
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.011322814372295533,
+        "logged_value": 0.17923259565258612
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Duganella",
+        "percentage_value": 0.017407454015007134,
+        "logged_value": 0.7997052122641696
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "OLB8",
+        "percentage_value": 0.04467310117857746,
+        "logged_value": 2.159406409099597
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.013769593357824872,
+        "logged_value": 0.46148595458457004
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0302982746385926,
+        "logged_value": 1.5992356405226873
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.01737191541178422,
+        "logged_value": 0.7967568330773346
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.015268522410642549,
+        "logged_value": 0.6105604541464364
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "IS-44",
+        "percentage_value": 0.015226676089964482,
+        "logged_value": 0.606601042817219
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.012968359394253646,
+        "logged_value": 0.3749959781644837
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.012441741910132234,
+        "logged_value": 0.31518848459885207
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_5",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.5017285496296116,
+        "logged_value": 5.648835128339732
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Duganella",
+        "percentage_value": 0.04216329692141662,
+        "logged_value": 2.0759876816385487
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.028528819442320906,
+        "logged_value": 1.5124200476575027
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0065353110228195755,
+        "logged_value": -0.6136721977493007
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.017500914737083526,
+        "logged_value": 0.8074303307527387
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.017049389878260893,
+        "logged_value": 0.7697201125423081
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.010754787229656866,
+        "logged_value": 0.10497898308219106
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Afipia",
+        "percentage_value": 0.011440727433303793,
+        "logged_value": 0.194178785600159
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "MM2",
+        "percentage_value": 0.039564275782827805,
+        "logged_value": 1.9841983491845103
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.038563684109618065,
+        "logged_value": 1.9472428833310087
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.02799139473230763,
+        "logged_value": 1.484983374129559
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.010761080259048122,
+        "logged_value": 0.10582291117931181
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.009275925322711655,
+        "logged_value": -0.1084368894988787
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.008334068590486975,
+        "logged_value": -0.2629071212270059
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.007306207123248462,
+        "logged_value": -0.45280544172838166
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_6",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.027970709492816312,
+        "logged_value": 1.483916849051347
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.060731087463412964,
+        "logged_value": 2.602435202615067
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.015116841715071,
+        "logged_value": 0.5961567560967649
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.01419758704130718,
+        "logged_value": 0.5056457565366635
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.015288260107104826,
+        "logged_value": 0.6124242289563961
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.015827757112362936,
+        "logged_value": 0.6624568314620353
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.026138479207267935,
+        "logged_value": 1.386175204486119
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Duganella",
+        "percentage_value": 0.025166480412878323,
+        "logged_value": 1.3315034665611516
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "OLB8",
+        "percentage_value": 0.06963730897479685,
+        "logged_value": 2.7998604533662714
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.02038937005905651,
+        "logged_value": 1.027817203176274
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Niastella",
+        "percentage_value": 0.07322390917735076,
+        "logged_value": 2.872314796317023
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.01668221186650078,
+        "logged_value": 0.7383105859812892
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.01619244503211842,
+        "logged_value": 0.6953208466275206
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.013231239402698903,
+        "logged_value": 0.4039482087350951
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.013095611663946865,
+        "logged_value": 0.38908344601413725
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_7",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.018266286758250844,
+        "logged_value": 0.8691833871168084
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.023896586872997595,
+        "logged_value": 1.2568045741459428
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "OLB8",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Shinella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.016267584366587165,
+        "logged_value": 0.7020000358239388
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Massilia",
+        "percentage_value": 0.08400903536033802,
+        "logged_value": 3.0705445013264088
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.08297924035324242,
+        "logged_value": 3.052750449886998
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.07743317212736771,
+        "logged_value": 2.9529517448094063
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.06558655861386445,
+        "logged_value": 2.713400177525128
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.05161833291166993,
+        "logged_value": 2.367883548272174
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.03688333916801882,
+        "logged_value": 1.8829692735293824
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Morganella",
+        "percentage_value": 0.03107916036838622,
+        "logged_value": 1.6359475285613294
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Pragia",
+        "percentage_value": 0.029106930856082323,
+        "logged_value": 1.541362724306245
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.026517883254695465,
+        "logged_value": 1.4069656193481868
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.02173276323886254,
+        "logged_value": 1.1198716194137248
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.02119153992750696,
+        "logged_value": 1.083488427967534
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.016320530125306733,
+        "logged_value": 0.7066879198541164
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_8",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Paenibacillus",
+        "percentage_value": 0.027004234123504646,
+        "logged_value": 1.4331856320932645
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Bacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Streptomyces",
+        "percentage_value": 0.03483178597799147,
+        "logged_value": 1.8004044481050252
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Chromobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Chelativorans",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Luteimonas",
+        "percentage_value": 0.02644160995757747,
+        "logged_value": 1.4028100212896615
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Amb-16S-1323",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "OLB17",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Moraxellaceae_uncultured",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Microbacteriaceae_unknown",
+        "percentage_value": 0.022780176639372825,
+        "logged_value": 1.1877789338660067
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "unknown_159_rockwool",
+        "percentage_value": 0.12491291988183162,
+        "logged_value": 3.6428507990987624
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Sphingobium",
+        "percentage_value": 0.013926242487447426,
+        "logged_value": 0.4778060493256211
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Bradyrhizobium",
+        "percentage_value": 0.017000396768299515,
+        "logged_value": 0.7655684174793478
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Paenarthrobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "PLTA13",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Limnobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Thermomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Pantoea",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Azospirillum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Duganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Methylophilus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Pseudomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Dyella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",
+        "percentage_value": 0.013673838241230096,
+        "logged_value": 0.4514182637443385
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Luteibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Caulobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Sphingopyxis",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "[Aquaspirillum]_arcticum_group",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "OLB8",
+        "percentage_value": 0.017489672691736183,
+        "logged_value": 0.8065032903786312
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Emticicia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Cellvibrio",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Flavobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Chiayiivirga",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Ferrovibrio",
+        "percentage_value": 0.022390198210601873,
+        "logged_value": 1.1628672997933083
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Parasegetibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Oxalobacteraceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Shinella",
+        "percentage_value": 0.01352886759724886,
+        "logged_value": 0.4360410868972662
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Micromonosporaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Ralstonia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Acinetobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Pediococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Methylobacterium-Methylorubrum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Solibacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Saccharimonadales",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "unknown_32_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Lactobacillus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Spiroplasma",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Stenotrophomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Rhodocyclaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Sporichthya",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Ohtaekwangia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Phaeodactylibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Pseudolabrys",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Afipia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "UTBCD1",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Comamonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "IS-44",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Xanthomonadaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Flavihumibacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "MM2",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Micrococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Variovorax",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Paracoccus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Comamonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Parvibaculum",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Rhodanobacter",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Niastella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Cupriavidus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "unknown_150_rockwool",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Balneatrix",
+        "percentage_value": 0.022359133072605893,
+        "logged_value": 1.1608642518618362
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "JGI_0001001-H03",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Massilia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Undibacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Morganellaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Fusobacterium",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Parabacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Staphylococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Morganella",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Pragia",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Dysgonomonas",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Bacteroides",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Enterobacteriaceae_unknown",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Enterococcus",
+        "percentage_value": 0.0,
+        "logged_value": 0.0
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Terrimicrobium",
+        "percentage_value": 0.030218612985588585,
+        "logged_value": 1.5954374432712572
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Tistrella",
+        "percentage_value": 0.020658316767326042,
+        "logged_value": 1.0467227086869537
+    },
+    {
+        "Topic": "Topic_9",
+        "Taxon": "Haliscomenobacter",
+        "percentage_value": 0.016561601694106313,
+        "logged_value": 0.7278422045040545
+    }
+]
