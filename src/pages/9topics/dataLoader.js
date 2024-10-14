@@ -1,33 +1,33 @@
+async function fetchWithErrorHandling(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error(`Error fetching ${url}:`, error);
+    throw error;
+  }
+}
+
 export async function loadData() {
-    const response = await fetch('/heatmap_JSD_9_43.json'); // Directly references the static folder
-    const data = await response.json();
-    return data;
-  }
+  return fetchWithErrorHandling('/heatmap_JSD_9_43.json');
+}
 
+export async function loadTopicData() {
+  return fetchWithErrorHandling('/topic_9.json');
+}
 
-  export async function loadTopicData() {
-    const response = await fetch('/topic_9.json');
-    const data = await response.json();
-    return data;
-  }
+export async function loadData_Diagnosis() {
+  return fetchWithErrorHandling('/heatmap_JSD_9_43_Diagnosis.json');
+}
 
-  export async function loadData_Diagnosis() {
-    const response = await fetch('/heatmap_JSD_9_43_Diagnosis.json'); // Directly references the static folder
-    const data = await response.json();
-    return data;
-  }
+export async function loadData_Treatment() {
+  return fetchWithErrorHandling('/heatmap_JSD_9_43_Treatment.json');
+}
 
-  export async function loadData_Treatment() {
-    const response = await fetch('/heatmap_JSD_9_43_Treatment.json'); // Directly references the static folder
-    const data = await response.json();
-    return data;
-  }
-
-  export async function loadData_SampleTime() {
-    const response = await fetch('/heatmap_JSD_9_43_SampleTime.json'); // Directly references the static folder
-    const data = await response.json();
-    return data;
-  }
-
-  
-  
+export async function loadData_SampleTime() {
+  return fetchWithErrorHandling('/heatmap_JSD_9_43_SampleTime.json');
+}
