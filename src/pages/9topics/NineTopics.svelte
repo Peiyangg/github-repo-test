@@ -12,11 +12,14 @@
 	// Load both datasets when the component mounts
 	onMount(async () => {
 	  topicdis = await loadData(); // Load topic distribution data
+      console.log("First 2 topicdis data:", topicdis.slice(0, 2));
 	  worddis = await loadTopicData(); // Load word distribution data
+      console.log("First 2 worddis data:", worddis.slice(0, 2));
 	});
 
 	async function updateHeatmapData(loaderFunction) {
         topicdis = await loaderFunction();
+        console.log("Updated topicdis (first 2):", topicdis.slice(0, 2));
     }
   </script>
   
