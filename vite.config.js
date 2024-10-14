@@ -5,9 +5,11 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 export default defineConfig({
   base: "/github-repo-test/",
   plugins: [svelte()],
+  assetsInclude: ['**/*.json'],
   resolve: {
     dedupe: ['d3']
   },
   optimizeDeps: {
     include: ['d3']
+  }
 });
