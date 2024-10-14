@@ -12,13 +12,11 @@
     <nav>
       <ul>
         <li><Link to="/9topics">9 Topics</Link></li>
-        <li><Link to="/10topics">10 Topics</Link></li>
       </ul>
     </nav>
 
     <div>
       <Route path="/9topics" component={NineTopics} />
-      <Route path="/10topics" component={TenTopics} />
     </div>
   </main>
 </Router>
