@@ -1,6 +1,11 @@
+// Adjust this to match your GitHub repository name
+const BASE_PATH = '/github-repo-test';
+
 async function fetchWithErrorHandling(url) {
   try {
-    const response = await fetch(url);
+    const fullUrl = `${BASE_PATH}${url}`;
+    console.log('Fetching from:', fullUrl); // For debugging
+    const response = await fetch(fullUrl);
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }

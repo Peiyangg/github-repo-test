@@ -8,7 +8,7 @@
 
 <Router {url}>
   <main>
-    <h1>Modelling visualization by Latent Dirichlet Allocation (LDA) (v1)</h1>
+    <h1>Modelling visualization by Latent Dirichlet Allocation (LDA) (v2)</h1>
     <nav>
       <ul>
         <li><Link to="/9topics">9 Topics</Link></li>
