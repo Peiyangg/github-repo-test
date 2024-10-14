@@ -1,10 +1,28 @@
-<main>
-  <h1>Modelling visualizaiton by Latent Dirichlet Allocation (LDA)</h1>
-  <nav>
+<script>
+  import { Router, Route, Link } from "svelte-routing";
+  import NineTopics from "./pages/9topics/NineTopics.svelte";
+  import TenTopics from "./pages/10topics/TenTopics.svelte";
+
+  export let url = "";
+</script>
+
+<Router {url}>
+  <main>
+    <h1>Modelling visualization by Latent Dirichlet Allocation (LDA)</h1>
+    <nav>
       <ul>
-          <li><a href="/9topics">9 Topics</a></li>
-          <li><a href="/10topics">10 Topics</a></li>
-          <li><a href="/test">test</a></li>
+        <li><Link to="/9topics">9 Topics</Link></li>
+        <li><Link to="/10topics">10 Topics</Link></li>
       </ul>
-  </nav>
-</main>
+    </nav>
+
+    <div>
+      <Route path="/9topics" component={NineTopics} />
+      <Route path="/10topics" component={TenTopics} />
+    </div>
+  </main>
+</Router>
+
+<style>
+  /* Your styles here */
+</style>
