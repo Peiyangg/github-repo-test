@@ -22,7 +22,7 @@ export async function loadData() {
 }
 
 export async function loadTopicData() {
-  return fetchWithErrorHandling('/topic_9_all.json');
+  return fetchWithErrorHandling('/topic_9_all_check.json');
 }
 
 export async function loadData_Diagnosis() {

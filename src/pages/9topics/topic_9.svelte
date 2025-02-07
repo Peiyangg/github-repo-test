@@ -11,12 +11,12 @@
 
   onMount(async () => {
     data = await loadTopicData();
-    let logged_minValue = d3.min(data, d => d.logged_value);
-    let logged_maxValue = d3.max(data, d => d.logged_value);
+    let logged_minValue = d3.min(data, d => d.normalized_value);
+    let logged_maxValue = d3.max(data, d => d.normalized_value);
 
   // Log the min and max values to the console
-  console.log("Min logged_value:", logged_minValue);
-  console.log("Max logged_value:", logged_maxValue);
+  console.log("Min percentage_value:", logged_minValue);
+  console.log("Max percentage_value:", logged_maxValue);
     drawHeatmap();
   });
 
@@ -25,7 +25,7 @@
     const containerWidth = container.clientWidth;
     const containerHeight = container.clientHeight;
 
-    const adjustedWidth = containerWidth * 2;
+    const adjustedWidth = containerWidth * 18;
     const adjustedHeight = containerHeight - margin.top - margin.bottom;
 
     const svg = d3.select('#heatmap')
@@ -48,7 +48,7 @@
       .padding(0.05);
 
     const colorScale = d3.scaleSequential(d3.interpolateBlues)
-      .domain([0, d3.max(data, d => d.logged_value)]);
+      .domain([0, d3.max(data, d => d.normalized_value)]);
     
       
 
@@ -88,7 +88,7 @@
       .attr('y', d => yScale(d.Topic))
       .attr('width', xScale.bandwidth())
       .attr('height', yScale.bandwidth())
-      .attr('fill', d => colorScale(d.logged_value))
+      .attr('fill', d => colorScale(d.normalized_value))
       .on('mouseover', (event, d) => {
         tooltip.transition()
           .duration(200)
@@ -96,7 +96,7 @@
         tooltip.html(`
           <strong>Taxon:</strong> ${d.Taxon}<br>
           <strong>Topic:</strong> ${d.Topic}<br>
-          <strong>Logged Value:</strong> ${d.logged_value.toFixed(4)}<br>
+          <strong>Normalized Value:</strong> ${d.normalized_value.toFixed(4)}<br>
           <strong>Percent from LDA (%):</strong> ${(d.percentage_value*100).toFixed(4)}`) // Adjust according to your data structure
           .style('left', (event.pageX + 5) + 'px')
           .style('top', (event.pageY - 28) + 'px');
@@ -122,16 +122,16 @@
       .style('cursor', 'pointer')
       .on('click', (event, clickedTopic) => {
         const sortedTaxa = taxa.slice().sort((a, b) => {
-          const valueA = data.find(d => d.Taxon === a && d.Topic === clickedTopic)?.logged_value || 0;
-          const valueB = data.find(d => d.Taxon === b && d.Topic === clickedTopic)?.logged_value || 0;
+          const valueA = data.find(d => d.Taxon === a && d.Topic === clickedTopic)?.percentage_value || 0;
+          const valueB = data.find(d => d.Taxon === b && d.Topic === clickedTopic)?.percentage_value || 0;
           return valueB - valueA;
         });
         updateHeatmap(sortedTaxa);
       });
   }
 
-  let logged_minValue = d3.min(data, d => d.logged_value);
-  let logged_maxValue = d3.max(data, d => d.logged_value);
+  let logged_minValue = d3.min(data, d => d.normalized_value);
+  let logged_maxValue = d3.max(data, d => d.normalized_value);
 </script>
 
 <div class="content_container">
@@ -139,7 +139,7 @@
     <svg id="heatmap"></svg>
   </div>
   <div class="color-bar">
-    <div class="color-bar-text max-value">5.33</div>
+    <div class="color-bar-text max-value">1</div>
     <div class="color-bar-bar"></div>
     <div class="color-bar-text min-value">0</div>
     <div class="color-bar-title"> Taxon's probability (logged)</div>
